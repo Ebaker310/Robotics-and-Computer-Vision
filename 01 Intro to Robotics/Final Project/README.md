@@ -12,4 +12,4 @@ Our group made a prototype for a self-balancing bicycle that utilizes a PID cont
 
 **Electrical Hardware Design:**
 
-<img src="pics/WiringSchematic.PNG" width="400">
+<img src="pics/WiringSchematic.PNG" width="300">
