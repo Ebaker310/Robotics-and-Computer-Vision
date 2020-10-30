@@ -4,5 +4,5 @@ This repository houses a few robotics and computer vision projects:
 
 * [Image Processing](https://github.com/Ebaker310/Robotics-and-Computer-Vision/tree/master/02%20Robotic%20Systems/Assignments)
 
-* Self-Driving RC Car (coming soon)
+* Semi-Autonomous RC Car (coming soon)
 
