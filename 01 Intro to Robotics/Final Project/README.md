@@ -6,10 +6,10 @@ Our group made a prototype for a self-balancing bicycle that utilizes a PID cont
 
 <img src="pics/FeedbackController.PNG" width="500">
 
-**Hardware Design:**
+**Mechanical Hardware Design:**
 
 <img src="pics/HardwareDesign.PNG" width="500">
 
-**Wiring Schematic:**
+**Electrical Hardware Design:**
 
-<img src="pics/WiringSchematic.PNG" width="200">
+<img src="pics/WiringSchematic.PNG" width="400">
